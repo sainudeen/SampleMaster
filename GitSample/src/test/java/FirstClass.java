@@ -5,7 +5,7 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 
 		String input="sai";
-
+		String input2="Saiii";
 	}
 
 }
